@@ -13,7 +13,7 @@
         android:theme="@style/Theme.MemeShare">
         <activity
             android:name="MainActivity.kt"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
